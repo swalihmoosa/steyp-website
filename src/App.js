@@ -9,7 +9,7 @@ function App() {
     <Router>
       <>
       <Switch>
-      <Route path="/" exact component={Home} />
+      <Route path="http://swalihmoosa.github.io/steyp-website/" exact component={Home} />
       <Route path="/signup" component={Signup} />
       <Route path="/login" component={Login} />
       </Switch>
